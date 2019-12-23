@@ -23,3 +23,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core
 * [Domain Validation](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) - Domain validation
 * [More Domain Validation](https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/) - Jimmy Bogard Blog - Domain Validation
+
+
+## Personal Weird Stuff
+* [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet

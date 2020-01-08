@@ -27,5 +27,12 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## CAB
 * [Intro to CAB](https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/) - Rich Newman - Intro to Cab Blog Post
 
+## React with Electron
+* [Create an app with Electron and React](https://flaviocopes.com/react-electron/) - Create an app with Electron and React
+
+## React
+* [React](https://reactjs.org/) - React
+* [An Expense App with React and TypeScript](https://www.telerik.com/blogs/an-expense-app-with-react-and-typescript?mc_cid=c08595e24d&mc_eid=96f1168693) - An Expense App with React and TypeScript
+
 ## Personal Weird Stuff
 * [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet

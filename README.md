@@ -32,6 +32,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Create an app with Electron and React](https://flaviocopes.com/react-electron/) - Create an app with Electron and React
 * [Git Repo Electron App with React](https://github.com/kitze/react-electron-example) - Git Repo Electron App with React
 * [Another example](https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f) - Another Example
+* [How to build an Electron app using Create React App and Electron Builder](https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer) - How to build an Electron app using Create React App and Electron Builder
+* [Electron-CRA-TypeScript](https://github.com/nayunhwan/Electron-CRA-TypeScript) - Electron-CRA-TypeScript
 
 ## React
 * [React](https://reactjs.org/) - React

@@ -18,6 +18,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Shawn Wildermuth](https://wildermuth.com/) - Shawn Wildermuth
 * [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt
 
+## Git
+* [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
+
 ## Domain Driven Design (DDD)
 
 * [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core

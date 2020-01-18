@@ -31,6 +31,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Intro to CAB](https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/) - Rich Newman - Intro to Cab Blog Post
 * [Smart Client Software Factory for Visual Studio 2012, 2013 and 2015](https://github.com/oliverheilig/scsf20xx) - Thank You!
 
+## WPF
+* [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Wpf Toolkit
+
 ## React with Electron
 * [Create an app with Electron and React](https://flaviocopes.com/react-electron/) - Create an app with Electron and React
 * [Git Repo Electron App with React](https://github.com/kitze/react-electron-example) - Git Repo Electron App with React

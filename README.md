@@ -35,6 +35,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Wpf Toolkit
 
 ## React with Electron
+* [This is the one!](https://github.com/kitze/react-electron-example) - This is the one
 * [Create an app with Electron and React](https://flaviocopes.com/react-electron/) - Create an app with Electron and React
 * [Git Repo Electron App with React](https://github.com/kitze/react-electron-example) - Git Repo Electron App with React
 * [Another example](https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f) - Another Example

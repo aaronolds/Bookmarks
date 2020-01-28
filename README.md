@@ -51,3 +51,6 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Personal Weird Stuff
 * [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet
+
+## Tools
+* [Generate Poco from JSON](https://quicktype.io/) - Generate Poco from JSON

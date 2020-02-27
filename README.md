@@ -12,7 +12,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [.NET Platform Standard](https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the new version of .NET.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 * [Static factory vs Constructor](https://www.gustavwengel.dk/csharp-static-factory-vs-constructor?mc_cid=66e9d8da43&mc_eid=96f1168693) 
-
+* [How to use HTTPClient](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/) - Asp.net IHttpClientFactory
 ## Blogs
 * [Jimmy Bogard](https://lostechies.com/) - Jimmy Bogard
 * [Scott hanselman](https://www.hanselman.com/) - Scott hanselman

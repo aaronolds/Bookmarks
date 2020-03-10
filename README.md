@@ -14,6 +14,17 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Static factory vs Constructor](https://www.gustavwengel.dk/csharp-static-factory-vs-constructor?mc_cid=66e9d8da43&mc_eid=96f1168693) 
 * [How to use HTTPClient](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/) - Asp.net IHttpClientFactory
 
+## Asp.Net Identity
+* [blog] (https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api) - jason watmore's blog on jwt
+* [Identity Server GitHub] (https://github.com/IdentityServer) - Identity Server GitHub
+* [Must watch] (https://app.pluralsight.com/library/courses/authentication-authorization-aspnet-core/table-of-contents) - Authentication and Authorization in Asp.NET Core
+* [Jwt Tool] (https://jwt.io/) - Jwt Tool
+* [Identity Server] (http://docs.identityserver.io/en/3.1.0/index.html) - Identity Server
+
+## PostMan
+* [docs] (https://explore.postman.com/team/intuit) - Intuit on PostMan
+* [learn] (https://learning.postman.com/concepts/) - Learning PostMan
+
 ## Microsoft Architecture Docs
 * [Architecture] (https://docs.microsoft.com/en-us/dotnet/architecture/) - Microsoft Archtecture
 

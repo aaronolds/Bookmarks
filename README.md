@@ -33,6 +33,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Scott hanselman](https://www.hanselman.com/) - Scott hanselman
 * [Shawn Wildermuth](https://wildermuth.com/) - Shawn Wildermuth
 * [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt
+* [Andrew Lock](https://andrewlock.net/) - Andrew Lock
+* [https://www.scottbrady91.com/](https://www.scottbrady91.com/) - Scott Brady
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git

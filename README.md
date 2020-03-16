@@ -39,6 +39,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
 
+## Entity Framework
+* [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1
+
 ## Domain Driven Design (DDD)
 
 * [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core

@@ -23,6 +23,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Asp.Net Identity JWT
 * [jwt](https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api#startup-cs) - Jwt
+* [jwt postman](https://gist.github.com/corbanb/db03150abbe899285d6a86cc480f674d) - Jwt Postman
 
 ## PostMan
 * [docs] (https://explore.postman.com/team/intuit) - Intuit on PostMan

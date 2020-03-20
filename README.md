@@ -21,6 +21,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Jwt Tool] (https://jwt.io/) - Jwt Tool
 * [Identity Server] (http://docs.identityserver.io/en/3.1.0/index.html) - Identity Server
 
+## Asp.Net Identity JWT
+* [jwt](https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api#startup-cs) - Jwt
+
 ## PostMan
 * [docs] (https://explore.postman.com/team/intuit) - Intuit on PostMan
 * [learn] (https://learning.postman.com/concepts/) - Learning PostMan

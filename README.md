@@ -40,6 +40,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Andrew Lock](https://andrewlock.net/) - Andrew Lock
 * [https://www.scottbrady91.com/](https://www.scottbrady91.com/) - Scott Brady
 * [Giorgi Dalakishvili](https://www.giorgi.dev/) - Giorgi Dalakishvili
+* [Jon Blankenship](https://blog.jonblankenship.com/) - Jon Blankenship
+
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
 
@@ -73,6 +75,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## React
 * [React](https://reactjs.org/) - React
 * [An Expense App with React and TypeScript](https://www.telerik.com/blogs/an-expense-app-with-react-and-typescript?mc_cid=c08595e24d&mc_eid=96f1168693) - An Expense App with React and TypeScript
+
+## Design Patterns
+* [Specification Pattern](https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest) - Jon explains Specification Pattern
 
 ## Personal Weird Stuff
 * [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet

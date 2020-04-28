@@ -41,6 +41,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [https://www.scottbrady91.com/](https://www.scottbrady91.com/) - Scott Brady
 * [Giorgi Dalakishvili](https://www.giorgi.dev/) - Giorgi Dalakishvili
 * [Jon Blankenship](https://blog.jonblankenship.com/) - Jon Blankenship
+* [Vladimir Khorikov](https://enterprisecraftsmanship.com/) - Vladimir Khorikov
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git

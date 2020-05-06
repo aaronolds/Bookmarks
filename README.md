@@ -50,10 +50,11 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1
 
 ## Domain Driven Design (DDD)
-
+* [The Source](https://domainlanguage.com/) - DDD
 * [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core
 * [Domain Validation](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) - Domain validation
 * [More Domain Validation](https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/) - Jimmy Bogard Blog - Domain Validation
+* [Services in DDD](https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/) - Jimmy Bogard - Services in DDD
 
 ## CAB
 * [Intro to CAB](https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/) - Rich Newman - Intro to Cab Blog Post

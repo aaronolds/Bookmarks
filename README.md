@@ -34,6 +34,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Blogs
 * [Jimmy Bogard](https://lostechies.com/) - Jimmy Bogard
+* [Jimmy Bogard -2](https://jimmybogard.com/) - Jimmy Bogard's new blog
 * [Scott hanselman](https://www.hanselman.com/) - Scott hanselman
 * [Shawn Wildermuth](https://wildermuth.com/) - Shawn Wildermuth
 * [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt
@@ -82,6 +83,10 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Design Patterns
 * [Specification Pattern](https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest) - Jon explains Specification Pattern
+
+## Youtube
+* [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg) - Nick Chapsas
+* [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw) - IAmTimCorey
 
 ## Personal Weird Stuff
 * [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet

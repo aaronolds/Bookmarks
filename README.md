@@ -101,3 +101,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Stackify](https://stackify.com/) - So Frustrating - Stackify
 * [Swagger Json To PDF](https://www.swdoc.org/) - Swagger to PDF
 
+## Need to Read Again
+* [route doesn't match](https://www.josephguadagno.net/2020/07/01/no-route-matches-the-supplied-values) - route doesn't match
+* [multi-tenant](https://michael-mckenna.com/multi-tenant-asp-dot-net-core-application-tenant-resolution) 
+

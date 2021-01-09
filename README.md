@@ -84,6 +84,11 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## Design Patterns
 * [Specification Pattern](https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest) - Jon explains Specification Pattern
 
+## Docker
+* [Linux Containers on Win Svr 2-19](https://www.altaro.com/msp-dojo/linux-containers-windows-server-2019/) - Almost worked
+* [Works on windows 10](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-powershell) - Yay
+* [Again not on our servers](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-2017&pivots=cs1-powershell#buildnonrootcontainer) - I don't know why
+
 ## Youtube
 * [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg) - Nick Chapsas
 * [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw) - IAmTimCorey

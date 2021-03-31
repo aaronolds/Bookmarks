@@ -49,6 +49,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Entity Framework
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1
+* [EF-Core Connection Resiliency](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency) - Connection Resiliency
+* [How to use :point_up:](https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/) - Using Resilient Entity Framework Core
 
 ## Domain Driven Design (DDD)
 * [The Source](https://domainlanguage.com/) - DDD

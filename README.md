@@ -21,6 +21,14 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Jwt Tool] (https://jwt.io/) - Jwt Tool
 * [Identity Server] (http://docs.identityserver.io/en/3.1.0/index.html) - Identity Server
 
+## Duende Identity Server
+* [Active Directory](https://medium.com/the-new-control-plane/using-active-directory-ad-as-the-repository-for-authentication-with-identityserver4-fa010e0980db) - AD on Identity Server 4
+* [LDAP Identity Server Extension](https://github.com/Nordes/IdentityServer4.LdapExtension) - Use LDAP and Identity Server 4
+* [Blog ☝️](https://blog.honosoft.com/2018/06/18/ldap-identity-server-series-%e3%83%bc-part-i-%e3%83%bc-openldap-on-docker-container/) - Blog
+* [Duende Identity Server Docs](https://docs.duendesoftware.com/identityserver/v5) - Docs
+* [Duende Identity Server Examples](https://github.com/DuendeSoftware/Samples) - Examples on GitHub
+* [Brock Allen](https://brockallen.com/) - Brock's Blog
+
 ## Asp.Net Identity JWT
 * [jwt](https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api#startup-cs) - Jwt
 * [jwt postman](https://gist.github.com/corbanb/db03150abbe899285d6a86cc480f674d) - Jwt Postman

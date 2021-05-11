@@ -54,6 +54,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
+* [Workflow Stack-overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff) - Good workflow examples
 
 ## Entity Framework
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1

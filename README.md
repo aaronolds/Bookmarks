@@ -94,7 +94,12 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [An Expense App with React and TypeScript](https://www.telerik.com/blogs/an-expense-app-with-react-and-typescript?mc_cid=c08595e24d&mc_eid=96f1168693) - An Expense App with React and TypeScript
 
 ## Design Patterns
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Cloud Design Patterns
 * [Specification Pattern](https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest) - Jon explains Specification Pattern
+* [Choreography Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography) - MSDN Choreography Pattern
+* [Choreography Pattern - Saga Choreography](https://youtu.be/Mau9hxONzZ8) DotNet Core Central
+* [Orchestrator Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns) - MSDN Orchestrator Pattern
+* [Orchestrator Pattern Blog(https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/) - Orchestrator
 
 ## Docker
 * [Linux Containers on Win Svr 2-19](https://www.altaro.com/msp-dojo/linux-containers-windows-server-2019/) - Almost worked

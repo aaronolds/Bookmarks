@@ -99,7 +99,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Choreography Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography) - MSDN Choreography Pattern
 * [Choreography Pattern - Saga Choreography](https://youtu.be/Mau9hxONzZ8) DotNet Core Central
 * [Orchestrator Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns) - MSDN Orchestrator Pattern
-* [Orchestrator Pattern Blog(https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/) - Orchestrator
+* [Orchestrator Pattern Blog](https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/) - Orchestrator
 
 ## Docker
 * [Linux Containers on Win Svr 2-19](https://www.altaro.com/msp-dojo/linux-containers-windows-server-2019/) - Almost worked

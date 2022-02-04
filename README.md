@@ -51,11 +51,16 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Giorgi Dalakishvili](https://www.giorgi.dev/) - Giorgi Dalakishvili
 * [Jon Blankenship](https://blog.jonblankenship.com/) - Jon Blankenship
 * [Vladimir Khorikov](https://enterprisecraftsmanship.com/) - Vladimir Khorikov
+* [Aaron Bertrand](https://sqlperformance.com/author/abertrand) - Aaron Bertrand
+* [Steven Clearly](https://blog.stephencleary.com/) - Steven Clearly
+* [Jason Watmore](https://jasonwatmore.com/) - Jason Watmore
+* [https://sqlperformance.com/2020/09/locking/upsert-anti-pattern](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern) 
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
 * [Workflow Stack-overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff) - Good workflow examples
 * [Git-Flight-Rules](https://github.com/k88hudson/git-flight-rules/tree/master) - Git-Flight-Rules
+* [Dinero](https://github.com/dinerojs) - Dinerojs
 
 ## Entity Framework
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1

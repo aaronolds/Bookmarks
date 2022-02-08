@@ -61,6 +61,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Workflow Stack-overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff) - Good workflow examples
 * [Git-Flight-Rules](https://github.com/k88hudson/git-flight-rules/tree/master) - Git-Flight-Rules
 * [Dinero](https://github.com/dinerojs) - Dinerojs
+* [List of Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/) - Awesome Software Architecture
 
 ## Entity Framework
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1

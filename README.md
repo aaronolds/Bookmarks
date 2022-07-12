@@ -63,6 +63,14 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Dinero](https://github.com/dinerojs) - Dinerojs
 * [List of Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/) - Awesome Software Architecture
 
+## Git Repos
+* [Mock http](https://github.com/richardszalay/mockhttp) - Mock http
+* [MediatR](https://github.com/jbogard/MediatR) - MediatR
+* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - Fluent Assertions
+* [Bogus](https://github.com/bchavez/Bogus) - Bogus
+* [Guard Clauses](https://github.com/ardalis/GuardClauses) - Guard Clauses
+* [Smart Enum](https://github.com/ardalis/SmartEnum) - Smart Enum
+
 ## Entity Framework
 * [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1
 * [EF-Core Connection Resiliency](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency) - Connection Resiliency

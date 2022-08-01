@@ -138,6 +138,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Stackify](https://stackify.com/) - So Frustrating - Stackify
 * [Swagger Json To PDF](https://www.swdoc.org/) - Swagger to PDF
 * [cron job schedule](https://crontab.guru/) - Cron schedule editor
+* [convert json to dotnet string](https://jsontostring.com/) - Convert Json to dotnet string
 
 
 ## Need to Read Again

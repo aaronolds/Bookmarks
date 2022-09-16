@@ -77,6 +77,9 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [How to use :point_up:](https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/) - Using Resilient Entity Framework Core
 * [Example ☝️](https://github.com/dotnet-architecture/eShopOnContainers/blob/0b4f44659dc7e8fc6e2a942b16caf02c87532b9a/src/Services/Ordering/Ordering.API/Application/Behaviors/TransactionBehaviour.cs) Example of using Resilient connections
 
+## Dapper
+* [Dapper Examples](https://github.com/yorek/dapper-samples) - Dapper Examples - Yorek
+
 ## Domain Driven Design (DDD)
 * [The Source](https://domainlanguage.com/) - DDD
 * [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core

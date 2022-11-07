@@ -62,6 +62,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Git-Flight-Rules](https://github.com/k88hudson/git-flight-rules/tree/master) - Git-Flight-Rules
 * [Dinero](https://github.com/dinerojs) - Dinerojs
 * [List of Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/) - Awesome Software Architecture
+* [DDD Awesome List](https://github.com/heynickc/awesome-ddd) - DDD Awesome List
 
 ## Git Repos
 * [Mock http](https://github.com/richardszalay/mockhttp) - Mock http

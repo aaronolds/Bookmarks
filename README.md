@@ -70,6 +70,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## Git Repos
 * [Mock http](https://github.com/richardszalay/mockhttp) - Mock http
 * [MediatR](https://github.com/jbogard/MediatR) - MediatR
+* [MediatR 2](https://github.com/martinothamar/Mediator) - MediatR - Source Generated
 * [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - Fluent Assertions
 * [Bogus](https://github.com/bchavez/Bogus) - Bogus
 * [Guard Clauses](https://github.com/ardalis/GuardClauses) - Guard Clauses

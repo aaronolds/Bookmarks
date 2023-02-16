@@ -58,6 +58,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Steven Clearly](https://blog.stephencleary.com/) - Steven Clearly
 * [Jason Watmore](https://jasonwatmore.com/) - Jason Watmore
 * [https://sqlperformance.com/2020/09/locking/upsert-anti-pattern](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern) 
+* [Adam Furmanek](https://blog.adamfurmanek.pl/) - Adam Furmanek
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git

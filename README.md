@@ -59,6 +59,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Jason Watmore](https://jasonwatmore.com/) - Jason Watmore
 * [https://sqlperformance.com/2020/09/locking/upsert-anti-pattern](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern) 
 * [Adam Furmanek](https://blog.adamfurmanek.pl/) - Adam Furmanek
+* [Martin DotNet](https://martinjt.me/) - Martin DotNet (OTEL)
+* [James Eastham](https://jameseastham.co.uk/) - James Eastham (AWS Event Driven)
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
@@ -133,6 +135,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 ## Youtube
 * [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg) - Nick Chapsas
 * [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw) - IAmTimCorey
+* [NDC](https://www.youtube.com/@NDC) - NDC Conferences
+* [Code Opinion](https://www.youtube.com/@CodeOpinion) - Code Opinion
 
 ## Personal Weird Stuff
 * [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet

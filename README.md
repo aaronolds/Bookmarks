@@ -61,6 +61,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [Adam Furmanek](https://blog.adamfurmanek.pl/) - Adam Furmanek
 * [Martin DotNet](https://martinjt.me/) - Martin DotNet (OTEL)
 * [James Eastham](https://jameseastham.co.uk/) - James Eastham (AWS Event Driven)
+* [Andras Nemes](https://dotnetcodr.com/architecture-and-patterns/)
 
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git

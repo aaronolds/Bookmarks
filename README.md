@@ -98,6 +98,11 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [DDD With EF](https://dotnetcultist.com/ddd-value-objects-with-entity-framework-core/) - Great article on DDD with EF
 * [DDD With EF - Examples](https://github.com/vkhorikov/DddAndEFCore) - DDD With EF - Examples
 
+## Event Sourcing
+* [Event Sourcing for .NET Developers: From Zero to Implementation](https://www.youtube.com/watch?v=gvW9uJSFujA) - Milan Jovanović
+* [Let's build event store in one hour!](https://www.youtube.com/watch?v=gaoZdtQSOTo) - Oskar Dudycz - NDC Oslo 2022
+* [Getting Started with Event Sourcing in .NET](https://www.youtube.com/watch?v=n_o-xuuVtmw) - Nick Chapsas
+
 ## CAB
 * [Intro to CAB](https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/) - Rich Newman - Intro to Cab Blog Post
 * [Smart Client Software Factory for Visual Studio 2012, 2013 and 2015](https://github.com/oliverheilig/scsf20xx) - Thank You!

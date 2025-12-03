@@ -63,6 +63,18 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * [James Eastham](https://jameseastham.co.uk/) - James Eastham (AWS Event Driven)
 * [Andras Nemes](https://dotnetcodr.com/architecture-and-patterns/) - Andras Nemes (Dotnet dotnetcodr)
 
+## Tech News
+* [Techmeme](https://www.techmeme.com) - A leading tech news aggregator for technology business and breakthrough news.
+* [The Verge](https://www.theverge.com) - Consumer technology news site covering tech, science, art, and culture.
+* [The Information](https://www.theinformation.com) - A subscription-based publication focused on technology and business news.
+
+## AI Newsletters
+* [The Rundown AI](https://www.therundown.ai) - Daily AI newsletter delivering news and practical applications in 5 minutes.
+* [Superhuman](https://www.superhuman.ai) - Daily newsletter on AI tools, trends, and productivity tips.
+* [The Neuron](https://www.theneuron.ai) - Daily AI newsletter with trends, tools, and tutorials for professionals.
+* [The Batch](https://www.deeplearning.ai/the-batch) - Weekly newsletter curated by Andrew Ng's team, focused on AI research and industry updates.
+* [Turing Post](https://www.turingpost.com) - Newsletter exploring AI/ML trends, research, and interviews.
+
 ## Git
 * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
 * [Workflow Stack-overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff) - Good workflow examples

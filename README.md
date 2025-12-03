@@ -92,7 +92,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://www.youtube.com/watch?v=gaoZdtQSOTo" target="_blank">Let's build event store in one hour!</a> - Oskar Dudycz - NDC Oslo 2022
 
 ## General
-* <a href="https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md" target="_blank">.NET Platform Standard</a> - The differrent between the old version and the new version of .NET.
+* <a href="https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md" target="_blank">.NET Platform Standard</a> - The different between the old version and the new version of .NET.
 * <a href="https://docs.microsoft.com/en-us/dotnet/articles/welcome" target="_blank">.NET Core Documentation</a> - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
 * <a href="https://www.microsoft.com/net/core" target="_blank">.NET Core SDK</a> - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on <a href="https://github.com/dotnet/core" target="_blank">GitHub</a>.
 * <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">.NET Docs</a> - .Net Docs
@@ -173,5 +173,5 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://www.youtube.com/@CodeOpinion" target="_blank">Code Opinion</a> - Code Opinion
 * <a href="https://www.youtube.com/@NDC" target="_blank">NDC</a> - NDC Conferences
 * <a href="https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg" target="_blank">Nick Chapsas</a> - Nick Chapsas
-* <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="_blank">Tim Corey</a> - IAmTimCorey 
+* <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="_blank">Tim Corey</a> - IAmTimCorey
 

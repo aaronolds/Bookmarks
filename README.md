@@ -2,178 +2,176 @@
 
 This is a list of Bookmarks.  Nothing more nothing less.
 
-## General
-
-* [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - The official ASP.NET Core documentation site.
-* [Application architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) - Application architecture guides.
-* [.NET Docs](https://docs.microsoft.com/en-us/dotnet/) - .Net Docs
-* [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
-* [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub](https://github.com/dotnet/core).
-* [.NET Platform Standard](https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the new version of .NET.
-* [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
-* [Static factory vs Constructor](https://www.gustavwengel.dk/csharp-static-factory-vs-constructor?mc_cid=66e9d8da43&mc_eid=96f1168693) 
-* [How to use HTTPClient](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/) - Asp.net IHttpClientFactory
+## AI Newsletters
+* <a href="https://www.superhuman.ai" target="_blank">Superhuman</a> - Daily newsletter on AI tools, trends, and productivity tips.
+* <a href="https://www.deeplearning.ai/the-batch" target="_blank">The Batch</a> - Weekly newsletter curated by Andrew Ng's team, focused on AI research and industry updates.
+* <a href="https://www.theneuron.ai" target="_blank">The Neuron</a> - Daily AI newsletter with trends, tools, and tutorials for professionals.
+* <a href="https://www.therundown.ai" target="_blank">The Rundown AI</a> - Daily AI newsletter delivering news and practical applications in 5 minutes.
+* <a href="https://www.turingpost.com" target="_blank">Turing Post</a> - Newsletter exploring AI/ML trends, research, and interviews.
 
 ## Asp.Net Identity
-* [blog] (https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api) - jason watmore's blog on jwt
-* [Identity Server GitHub] (https://github.com/IdentityServer) - Identity Server GitHub
-* [Must watch] (https://app.pluralsight.com/library/courses/authentication-authorization-aspnet-core/table-of-contents) - Authentication and Authorization in Asp.NET Core
-* [Jwt Tool] (https://jwt.io/) - Jwt Tool
-* [Identity Server] (http://docs.identityserver.io/en/3.1.0/index.html) - Identity Server
-
-## Duende Identity Server
-* [Active Directory](https://medium.com/the-new-control-plane/using-active-directory-ad-as-the-repository-for-authentication-with-identityserver4-fa010e0980db) - AD on Identity Server 4
-* [LDAP Identity Server Extension](https://github.com/Nordes/IdentityServer4.LdapExtension) - Use LDAP and Identity Server 4
-* [Blog ☝️](https://blog.honosoft.com/2018/06/18/ldap-identity-server-series-%e3%83%bc-part-i-%e3%83%bc-openldap-on-docker-container/) - Blog
-* [Duende Identity Server Docs](https://docs.duendesoftware.com/identityserver/v5) - Docs
-* [Duende Identity Server Examples](https://github.com/DuendeSoftware/Samples) - Examples on GitHub
-* [Brock Allen](https://brockallen.com/) - Brock's Blog
+* <a href="https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api" target="_blank">blog</a> - jason watmore's blog on jwt
+* <a href="https://github.com/IdentityServer" target="_blank">Identity Server GitHub</a> - Identity Server GitHub
+* <a href="http://docs.identityserver.io/en/3.1.0/index.html" target="_blank">Identity Server</a> - Identity Server
+* <a href="https://jwt.io/" target="_blank">Jwt Tool</a> - Jwt Tool
+* <a href="https://app.pluralsight.com/library/courses/authentication-authorization-aspnet-core/table-of-contents" target="_blank">Must watch</a> - Authentication and Authorization in Asp.NET Core
 
 ## Asp.Net Identity JWT
-* [jwt](https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api#startup-cs) - Jwt
-* [jwt postman](https://gist.github.com/corbanb/db03150abbe899285d6a86cc480f674d) - Jwt Postman
+* <a href="https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api#startup-cs" target="_blank">jwt</a> - Jwt
+* <a href="https://gist.github.com/corbanb/db03150abbe899285d6a86cc480f674d" target="_blank">jwt postman</a> - Jwt Postman
 
 ## AWS Resources
-* [blog](https://www.rahulpnath.com/) - AWS blogger
-
-## PostMan
-* [docs] (https://explore.postman.com/team/intuit) - Intuit on PostMan
-* [learn] (https://learning.postman.com/concepts/) - Learning PostMan
-
-## Microsoft Architecture Docs
-* [Architecture] (https://docs.microsoft.com/en-us/dotnet/architecture/) - Microsoft Archtecture
+* <a href="https://www.rahulpnath.com/" target="_blank">blog</a> - AWS blogger
 
 ## Blogs
-* [Jimmy Bogard](https://lostechies.com/) - Jimmy Bogard
-* [Jimmy Bogard -2](https://jimmybogard.com/) - Jimmy Bogard's new blog
-* [Scott hanselman](https://www.hanselman.com/) - Scott hanselman
-* [Shawn Wildermuth](https://wildermuth.com/) - Shawn Wildermuth
-* [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt
-* [Andrew Lock](https://andrewlock.net/) - Andrew Lock
-* [https://www.scottbrady91.com/](https://www.scottbrady91.com/) - Scott Brady
-* [Giorgi Dalakishvili](https://www.giorgi.dev/) - Giorgi Dalakishvili
-* [Jon Blankenship](https://blog.jonblankenship.com/) - Jon Blankenship
-* [Vladimir Khorikov](https://enterprisecraftsmanship.com/) - Vladimir Khorikov
-* [Aaron Bertrand](https://sqlperformance.com/author/abertrand) - Aaron Bertrand
-* [Steven Clearly](https://blog.stephencleary.com/) - Steven Clearly
-* [Jason Watmore](https://jasonwatmore.com/) - Jason Watmore
-* [https://sqlperformance.com/2020/09/locking/upsert-anti-pattern](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern) 
-* [Adam Furmanek](https://blog.adamfurmanek.pl/) - Adam Furmanek
-* [Martin DotNet](https://martinjt.me/) - Martin DotNet (OTEL)
-* [James Eastham](https://jameseastham.co.uk/) - James Eastham (AWS Event Driven)
-* [Andras Nemes](https://dotnetcodr.com/architecture-and-patterns/) - Andras Nemes (Dotnet dotnetcodr)
-
-## Tech News
-* [Techmeme](https://www.techmeme.com) - A leading tech news aggregator for technology business and breakthrough news.
-* [The Verge](https://www.theverge.com) - Consumer technology news site covering tech, science, art, and culture.
-* [The Information](https://www.theinformation.com) - A subscription-based publication focused on technology and business news.
-
-## AI Newsletters
-* [The Rundown AI](https://www.therundown.ai) - Daily AI newsletter delivering news and practical applications in 5 minutes.
-* [Superhuman](https://www.superhuman.ai) - Daily newsletter on AI tools, trends, and productivity tips.
-* [The Neuron](https://www.theneuron.ai) - Daily AI newsletter with trends, tools, and tutorials for professionals.
-* [The Batch](https://www.deeplearning.ai/the-batch) - Weekly newsletter curated by Andrew Ng's team, focused on AI research and industry updates.
-* [Turing Post](https://www.turingpost.com) - Newsletter exploring AI/ML trends, research, and interviews.
-
-## Git
-* [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) - Squash commits into one with Git
-* [Workflow Stack-overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff) - Good workflow examples
-* [Git-Flight-Rules](https://github.com/k88hudson/git-flight-rules/tree/master) - Git-Flight-Rules
-* [Dinero](https://github.com/dinerojs) - Dinerojs
-* [List of Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/) - Awesome Software Architecture
-* [DDD Awesome List](https://github.com/heynickc/awesome-ddd) - DDD Awesome List
-
-## Git Repos
-* [Mock http](https://github.com/richardszalay/mockhttp) - Mock http
-* [MediatR](https://github.com/jbogard/MediatR) - MediatR
-* [MediatR 2](https://github.com/martinothamar/Mediator) - MediatR - Source Generated
-* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - Fluent Assertions
-* [Bogus](https://github.com/bchavez/Bogus) - Bogus
-* [Guard Clauses](https://github.com/ardalis/GuardClauses) - Guard Clauses
-* [Smart Enum](https://github.com/ardalis/SmartEnum) - Smart Enum
-
-## Entity Framework
-* [Entity Framework Exceptions](https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/) - EntityFramework.Exceptions 3.1.1
-* [EF-Core Connection Resiliency](https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency) - Connection Resiliency
-* [How to use :point_up:](https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/) - Using Resilient Entity Framework Core
-* [Example ☝️](https://github.com/dotnet-architecture/eShopOnContainers/blob/0b4f44659dc7e8fc6e2a942b16caf02c87532b9a/src/Services/Ordering/Ordering.API/Application/Behaviors/TransactionBehaviour.cs) Example of using Resilient connections
-
-## Dapper
-* [Dapper Examples](https://github.com/yorek/dapper-samples) - Dapper Examples - Yorek
-
-## Domain Driven Design (DDD)
-* [The Source](https://domainlanguage.com/) - DDD
-* [Mediatr CQRS ASP.NET Core](https://ardalis.com/using-mediatr-in-aspnet-core-apps) - Ardalis - CQRS ASP.NET Core
-* [Domain Validation](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) - Domain validation
-* [More Domain Validation](https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/) - Jimmy Bogard Blog - Domain Validation
-* [Services in DDD](https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/) - Jimmy Bogard - Services in DDD
-* [DDD With EF](https://dotnetcultist.com/ddd-value-objects-with-entity-framework-core/) - Great article on DDD with EF
-* [DDD With EF - Examples](https://github.com/vkhorikov/DddAndEFCore) - DDD With EF - Examples
-
-## Event Sourcing
-* [Event Sourcing for .NET Developers: From Zero to Implementation](https://www.youtube.com/watch?v=gvW9uJSFujA) - Milan Jovanović
-* [Let's build event store in one hour!](https://www.youtube.com/watch?v=gaoZdtQSOTo) - Oskar Dudycz - NDC Oslo 2022
-* [Getting Started with Event Sourcing in .NET](https://www.youtube.com/watch?v=n_o-xuuVtmw) - Nick Chapsas
+* <a href="https://blog.adamfurmanek.pl/" target="_blank">Adam Furmanek</a> - Adam Furmanek
+* <a href="https://dotnetcodr.com/architecture-and-patterns/" target="_blank">Andras Nemes</a> - Andras Nemes (Dotnet dotnetcodr)
+* <a href="https://andrewlock.net/" target="_blank">Andrew Lock</a> - Andrew Lock
+* <a href="https://sqlperformance.com/author/abertrand" target="_blank">Aaron Bertrand</a> - Aaron Bertrand
+* <a href="https://www.giorgi.dev/" target="_blank">Giorgi Dalakishvili</a> - Giorgi Dalakishvili
+* <a href="https://jameseastham.co.uk/" target="_blank">James Eastham</a> - James Eastham (AWS Event Driven)
+* <a href="https://jasonwatmore.com/" target="_blank">Jason Watmore</a> - Jason Watmore
+* <a href="https://lostechies.com/" target="_blank">Jimmy Bogard</a> - Jimmy Bogard
+* <a href="https://jimmybogard.com/" target="_blank">Jimmy Bogard -2</a> - Jimmy Bogard's new blog
+* <a href="https://blog.jonblankenship.com/" target="_blank">Jon Blankenship</a> - Jon Blankenship
+* <a href="https://martinjt.me/" target="_blank">Martin DotNet</a> - Martin DotNet (OTEL)
+* <a href="https://www.scottbrady91.com/" target="_blank">Scott Brady</a> - Scott Brady
+* <a href="https://www.hanselman.com/" target="_blank">Scott hanselman</a> - Scott hanselman
+* <a href="https://wildermuth.com/" target="_blank">Shawn Wildermuth</a> - Shawn Wildermuth
+* <a href="https://blog.stephencleary.com/" target="_blank">Steven Clearly</a> - Steven Clearly
+* <a href="https://www.troyhunt.com/" target="_blank">Troy Hunt</a> - Troy Hunt
+* <a href="https://sqlperformance.com/2020/09/locking/upsert-anti-pattern" target="_blank">Upsert Anti-Pattern</a>
+* <a href="https://enterprisecraftsmanship.com/" target="_blank">Vladimir Khorikov</a> - Vladimir Khorikov
 
 ## CAB
-* [Intro to CAB](https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/) - Rich Newman - Intro to Cab Blog Post
-* [Smart Client Software Factory for Visual Studio 2012, 2013 and 2015](https://github.com/oliverheilig/scsf20xx) - Thank You!
+* <a href="https://richnewman.wordpress.com/2007/07/14/an-introduction-to-the-smart-client-software-factory-and-composite-application-block-part-1-modules-and-shells/" target="_blank">Intro to CAB</a> - Rich Newman - Intro to Cab Blog Post
+* <a href="https://github.com/oliverheilig/scsf20xx" target="_blank">Smart Client Software Factory for Visual Studio 2012, 2013 and 2015</a> - Thank You!
 
-## WPF
-* [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Wpf Toolkit
-
-## React with Electron
-* [This is the one!](https://github.com/kitze/react-electron-example) - This is the one
-* [Create an app with Electron and React](https://flaviocopes.com/react-electron/) - Create an app with Electron and React
-* [Git Repo Electron App with React](https://github.com/kitze/react-electron-example) - Git Repo Electron App with React
-* [Another example](https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f) - Another Example
-* [How to build an Electron app using Create React App and Electron Builder](https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer) - How to build an Electron app using Create React App and Electron Builder
-* [Electron-CRA-TypeScript](https://github.com/nayunhwan/Electron-CRA-TypeScript) - * Electron-CRA-TypeScript
-* [How to make an electron app using Create-React-App and Electron with Electron-Builder.](https://gist.github.com/matthewjberger/6f42452cb1a2253667942d333ff53404) - * How to make an electron app using Create-React-App and Electron with Electron-Builder.
-* [This is an awesome example](https://github.com/GetStream/Winds) - * This is an awesome example
-* [Good medium article](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3) - Good medium article
-
-## React
-* [React](https://reactjs.org/) - React
-* [An Expense App with React and TypeScript](https://www.telerik.com/blogs/an-expense-app-with-react-and-typescript?mc_cid=c08595e24d&mc_eid=96f1168693) - An Expense App with React and TypeScript
+## Dapper
+* <a href="https://github.com/yorek/dapper-samples" target="_blank">Dapper Examples</a> - Dapper Examples - Yorek
 
 ## Design Patterns
-* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Cloud Design Patterns
-* [Specification Pattern](https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest) - Jon explains Specification Pattern
-* [Choreography Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography) - MSDN Choreography Pattern
-* [Choreography Pattern - Saga Choreography](https://youtu.be/Mau9hxONzZ8) DotNet Core Central
-* [Orchestrator Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns) - MSDN Orchestrator Pattern
-* [Orchestrator Pattern Blog](https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/) - Orchestrator
+* <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography" target="_blank">Choreography Pattern</a> - MSDN Choreography Pattern
+* <a href="https://youtu.be/Mau9hxONzZ8" target="_blank">Choreography Pattern - Saga Choreography</a> - DotNet Core Central
+* <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/" target="_blank">Cloud Design Patterns</a> - Cloud Design Patterns
+* <a href="https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/" target="_blank">Orchestrator Pattern Blog</a> - Orchestrator
+* <a href="https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns" target="_blank">Orchestrator Pattern</a> - MSDN Orchestrator Pattern
+* <a href="https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest" target="_blank">Specification Pattern</a> - Jon explains Specification Pattern
 
 ## Docker
-* [Linux Containers on Win Svr 2-19](https://www.altaro.com/msp-dojo/linux-containers-windows-server-2019/) - Almost worked
-* [Works on windows 10](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-powershell) - Yay
-* [Again not on our servers](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-2017&pivots=cs1-powershell#buildnonrootcontainer) - I don't know why
+* <a href="https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-2017&pivots=cs1-powershell#buildnonrootcontainer" target="_blank">Again not on our servers</a> - I don't know why
+* <a href="https://www.altaro.com/msp-dojo/linux-containers-windows-server-2019/" target="_blank">Linux Containers on Win Svr 2-19</a> - Almost worked
+* <a href="https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-powershell" target="_blank">Works on windows 10</a> - Yay
 
-## Youtube
-* [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg) - Nick Chapsas
-* [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw) - IAmTimCorey
-* [NDC](https://www.youtube.com/@NDC) - NDC Conferences
-* [Code Opinion](https://www.youtube.com/@CodeOpinion) - Code Opinion
+## Domain Driven Design (DDD)
+* <a href="https://dotnetcultist.com/ddd-value-objects-with-entity-framework-core/" target="_blank">DDD With EF</a> - Great article on DDD with EF
+* <a href="https://github.com/vkhorikov/DddAndEFCore" target="_blank">DDD With EF - Examples</a> - DDD With EF - Examples
+* <a href="https://enterprisecraftsmanship.com/posts/validation-and-ddd/" target="_blank">Domain Validation</a> - Domain validation
+* <a href="https://ardalis.com/using-mediatr-in-aspnet-core-apps" target="_blank">Mediatr CQRS ASP.NET Core</a> - Ardalis - CQRS ASP.NET Core
+* <a href="https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/" target="_blank">More Domain Validation</a> - Jimmy Bogard Blog - Domain Validation
+* <a href="https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/" target="_blank">Services in DDD</a> - Jimmy Bogard - Services in DDD
+* <a href="https://domainlanguage.com/" target="_blank">The Source</a> - DDD
 
-## Personal Weird Stuff
-* [Spelling Alphabet](https://en.wikipedia.org/wiki/Spelling_alphabet) - Spelling Alphabet
+## Duende Identity Server
+* <a href="https://medium.com/the-new-control-plane/using-active-directory-ad-as-the-repository-for-authentication-with-identityserver4-fa010e0980db" target="_blank">Active Directory</a> - AD on Identity Server 4
+* <a href="https://blog.honosoft.com/2018/06/18/ldap-identity-server-series-%e3%83%bc-part-i-%e3%83%bc-openldap-on-docker-container/" target="_blank">Blog ☝️</a> - Blog
+* <a href="https://brockallen.com/" target="_blank">Brock Allen</a> - Brock's Blog
+* <a href="https://docs.duendesoftware.com/identityserver/v5" target="_blank">Duende Identity Server Docs</a> - Docs
+* <a href="https://github.com/DuendeSoftware/Samples" target="_blank">Duende Identity Server Examples</a> - Examples on GitHub
+* <a href="https://github.com/Nordes/IdentityServer4.LdapExtension" target="_blank">LDAP Identity Server Extension</a> - Use LDAP and Identity Server 4
 
-## Tools
-* [Generate Poco from JSON](https://quicktype.io/) - Generate Poco from JSON
-* [Regex](https://regexr.com/) - Regex tester
-* [Convert](https://www.convertjson.com/) - Convert Json to Almost anything!
-* [Url Encode](https://www.urlencoder.org/) - Encode anything
-* [load test](http://websurge.west-wind.com/) - Load Test Web API
-* [Sql Tools](https://www.apexsql.com/sql-tools-dev.aspx) - Apex sql dev tools
-* [Stackify](https://stackify.com/) - So Frustrating - Stackify
-* [Swagger Json To PDF](https://www.swdoc.org/) - Swagger to PDF
-* [cron job schedule](https://crontab.guru/) - Cron schedule editor
-* [convert json to dotnet string](https://jsontostring.com/) - Convert Json to dotnet string
-* [sharplab.io](https://sharplab.io/) - SharpLab
+## Entity Framework
+* <a href="https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency" target="_blank">EF-Core Connection Resiliency</a> - Connection Resiliency
+* <a href="https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/" target="_blank">Entity Framework Exceptions</a> - EntityFramework.Exceptions 3.1.1
+* <a href="https://github.com/dotnet-architecture/eShopOnContainers/blob/0b4f44659dc7e8fc6e2a942b16caf02c87532b9a/src/Services/Ordering/Ordering.API/Application/Behaviors/TransactionBehaviour.cs" target="_blank">Example ☝️</a> - Example of using Resilient connections
+* <a href="https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/" target="_blank">How to use :point_up:</a> - Using Resilient Entity Framework Core
 
+## Event Sourcing
+* <a href="https://www.youtube.com/watch?v=gvW9uJSFujA" target="_blank">Event Sourcing for .NET Developers: From Zero to Implementation</a> - Milan Jovanović
+* <a href="https://www.youtube.com/watch?v=n_o-xuuVtmw" target="_blank">Getting Started with Event Sourcing in .NET</a> - Nick Chapsas
+* <a href="https://www.youtube.com/watch?v=gaoZdtQSOTo" target="_blank">Let's build event store in one hour!</a> - Oskar Dudycz - NDC Oslo 2022
+
+## General
+* <a href="https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md" target="_blank">.NET Platform Standard</a> - The differrent between the old version and the new version of .NET.
+* <a href="https://docs.microsoft.com/en-us/dotnet/articles/welcome" target="_blank">.NET Core Documentation</a> - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
+* <a href="https://www.microsoft.com/net/core" target="_blank">.NET Core SDK</a> - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on <a href="https://github.com/dotnet/core" target="_blank">GitHub</a>.
+* <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">.NET Docs</a> - .Net Docs
+* <a href="https://dotnet.microsoft.com/learn/dotnet/architecture-guides" target="_blank">Application architecture guides</a> - Application architecture guides.
+* <a href="https://docs.asp.net/en/latest/" target="_blank">ASP.NET Core Documentation</a> - The official ASP.NET Core documentation site.
+* <a href="https://github.com/thangchung/clean-code-dotnet" target="_blank">Clean Code .NET/.NET Core</a> - Clean Code concepts adapted for .NET / .NET Core.
+* <a href="https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/" target="_blank">How to use HTTPClient</a> - Asp.net IHttpClientFactory
+* <a href="https://www.gustavwengel.dk/csharp-static-factory-vs-constructor?mc_cid=66e9d8da43&mc_eid=96f1168693" target="_blank">Static factory vs Constructor</a>
+
+## Git
+* <a href="https://github.com/heynickc/awesome-ddd" target="_blank">DDD Awesome List</a> - DDD Awesome List
+* <a href="https://github.com/dinerojs" target="_blank">Dinero</a> - Dinerojs
+* <a href="https://github.com/k88hudson/git-flight-rules/tree/master" target="_blank">Git-Flight-Rules</a> - Git-Flight-Rules
+* <a href="https://github.com/mehdihadeli/awesome-software-architecture/" target="_blank">List of Awesome Software Architecture</a> - Awesome Software Architecture
+* <a href="https://www.internalpointers.com/post/squash-commits-into-one-git" target="_blank">Squash commits into one with Git</a> - Squash commits into one with Git
+* <a href="https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff" target="_blank">Workflow Stack-overflow</a> - Good workflow examples
+
+## Git Repos
+* <a href="https://github.com/bchavez/Bogus" target="_blank">Bogus</a> - Bogus
+* <a href="https://github.com/fluentassertions/fluentassertions" target="_blank">Fluent Assertions</a> - Fluent Assertions
+* <a href="https://github.com/ardalis/GuardClauses" target="_blank">Guard Clauses</a> - Guard Clauses
+* <a href="https://github.com/jbogard/MediatR" target="_blank">MediatR</a> - MediatR
+* <a href="https://github.com/martinothamar/Mediator" target="_blank">MediatR 2</a> - MediatR - Source Generated
+* <a href="https://github.com/richardszalay/mockhttp" target="_blank">Mock http</a> - Mock http
+* <a href="https://github.com/ardalis/SmartEnum" target="_blank">Smart Enum</a> - Smart Enum
+
+## Microsoft Architecture Docs
+* <a href="https://docs.microsoft.com/en-us/dotnet/architecture/" target="_blank">Architecture</a> - Microsoft Archtecture
 
 ## Need to Read Again
-* [route doesn't match](https://www.josephguadagno.net/2020/07/01/no-route-matches-the-supplied-values) - route doesn't match
-* [multi-tenant](https://michael-mckenna.com/multi-tenant-asp-dot-net-core-application-tenant-resolution) 
+* <a href="https://michael-mckenna.com/multi-tenant-asp-dot-net-core-application-tenant-resolution" target="_blank">multi-tenant</a>
+* <a href="https://www.josephguadagno.net/2020/07/01/no-route-matches-the-supplied-values" target="_blank">route doesn't match</a> - route doesn't match
+
+## Personal Weird Stuff
+* <a href="https://en.wikipedia.org/wiki/Spelling_alphabet" target="_blank">Spelling Alphabet</a> - Spelling Alphabet
+
+## PostMan
+* <a href="https://explore.postman.com/team/intuit" target="_blank">docs</a> - Intuit on PostMan
+* <a href="https://learning.postman.com/concepts/" target="_blank">learn</a> - Learning PostMan
+
+## React
+* <a href="https://www.telerik.com/blogs/an-expense-app-with-react-and-typescript?mc_cid=c08595e24d&mc_eid=96f1168693" target="_blank">An Expense App with React and TypeScript</a> - An Expense App with React and TypeScript
+* <a href="https://reactjs.org/" target="_blank">React</a> - React
+
+## React with Electron
+* <a href="https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f" target="_blank">Another example</a> - Another Example
+* <a href="https://flaviocopes.com/react-electron/" target="_blank">Create an app with Electron and React</a> - Create an app with Electron and React
+* <a href="https://github.com/nayunhwan/Electron-CRA-TypeScript" target="_blank">Electron-CRA-TypeScript</a> - Electron-CRA-TypeScript
+* <a href="https://github.com/kitze/react-electron-example" target="_blank">Git Repo Electron App with React</a> - Git Repo Electron App with React
+* <a href="https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3" target="_blank">Good medium article</a> - Good medium article
+* <a href="https://www.codementor.io/@randyfindley/how-to-build-an-electron-app-using-create-react-app-and-electron-builder-ss1k0sfer" target="_blank">How to build an Electron app using Create React App and Electron Builder</a> - How to build an Electron app using Create React App and Electron Builder
+* <a href="https://gist.github.com/matthewjberger/6f42452cb1a2253667942d333ff53404" target="_blank">How to make an electron app using Create-React-App and Electron with Electron-Builder.</a> - How to make an electron app using Create-React-App and Electron with Electron-Builder.
+* <a href="https://github.com/GetStream/Winds" target="_blank">This is an awesome example</a> - This is an awesome example
+* <a href="https://github.com/kitze/react-electron-example" target="_blank">This is the one!</a> - This is the one
+
+## Tech News
+* <a href="https://www.techmeme.com" target="_blank">Techmeme</a> - A leading tech news aggregator for technology business and breakthrough news.
+* <a href="https://www.theinformation.com" target="_blank">The Information</a> - A subscription-based publication focused on technology and business news.
+* <a href="https://www.theverge.com" target="_blank">The Verge</a> - Consumer technology news site covering tech, science, art, and culture.
+
+## Tools
+* <a href="https://www.convertjson.com/" target="_blank">Convert</a> - Convert Json to Almost anything!
+* <a href="https://jsontostring.com/" target="_blank">convert json to dotnet string</a> - Convert Json to dotnet string
+* <a href="https://crontab.guru/" target="_blank">cron job schedule</a> - Cron schedule editor
+* <a href="https://quicktype.io/" target="_blank">Generate Poco from JSON</a> - Generate Poco from JSON
+* <a href="http://websurge.west-wind.com/" target="_blank">load test</a> - Load Test Web API
+* <a href="https://regexr.com/" target="_blank">Regex</a> - Regex tester
+* <a href="https://sharplab.io/" target="_blank">sharplab.io</a> - SharpLab
+* <a href="https://www.apexsql.com/sql-tools-dev.aspx" target="_blank">Sql Tools</a> - Apex sql dev tools
+* <a href="https://stackify.com/" target="_blank">Stackify</a> - So Frustrating - Stackify
+* <a href="https://www.swdoc.org/" target="_blank">Swagger Json To PDF</a> - Swagger to PDF
+* <a href="https://www.urlencoder.org/" target="_blank">Url Encode</a> - Encode anything
+
+## WPF
+* <a href="https://github.com/xceedsoftware/wpftoolkit" target="_blank">Wpf Toolkit</a> - Wpf Toolkit
+
+## Youtube
+* <a href="https://www.youtube.com/@CodeOpinion" target="_blank">Code Opinion</a> - Code Opinion
+* <a href="https://www.youtube.com/@NDC" target="_blank">NDC</a> - NDC Conferences
+* <a href="https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg" target="_blank">Nick Chapsas</a> - Nick Chapsas
+* <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="_blank">Tim Corey</a> - IAmTimCorey 
 

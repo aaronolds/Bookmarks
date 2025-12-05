@@ -54,8 +54,14 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography" target="_blank">Choreography Pattern</a> - MSDN Choreography Pattern
 * <a href="https://youtu.be/Mau9hxONzZ8" target="_blank">Choreography Pattern - Saga Choreography</a> - DotNet Core Central
 * <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/" target="_blank">Cloud Design Patterns</a> - Cloud Design Patterns
+* <a href="https://www.geeksforgeeks.org/command-pattern/" target="_blank">Command Pattern</a> - Intro to the Command Pattern
+* <a href="https://scottlilly.com/c-design-patterns-the-command-pattern/" target="_blank">Command Pattern C# Tutorial</a> - C# tutorial of the Command Pattern
+* <a href="https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6" target="_blank">Façade Pattern</a> - Quick guide to the Façade Pattern
+* <a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Factory Pattern</a> - Factory Method Pattern basics
+* <a href="https://www.binpress.com/factory-design-pattern/" target="_blank">Factory Pattern Examples</a> - Great examples of the Factory Pattern
 * <a href="https://jamiemaguire.net/index.php/2017/05/06/simplify-your-architecture-using-the-orchestrator-pattern/" target="_blank">Orchestrator Pattern Blog</a> - Orchestrator
 * <a href="https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns" target="_blank">Orchestrator Pattern</a> - MSDN Orchestrator Pattern
+* <a href="https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/" target="_blank">Repository Pattern</a> - Getting Familiar with the Repository Pattern
 * <a href="https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest" target="_blank">Specification Pattern</a> - Jon explains Specification Pattern
 
 ## Docker
@@ -87,9 +93,14 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://devblogs.microsoft.com/cesardelatorre/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/" target="_blank">How to use :point_up:</a> - Using Resilient Entity Framework Core
 
 ## Event Sourcing
+* <a href="https://martinfowler.com/bliki/CQRS.html" target="_blank">CQRS</a> - Martin Fowler on CQRS
+* <a href="https://martinfowler.com/eaaDev/EventSourcing.html" target="_blank">Event Sourcing</a> - Martin Fowler on Event Sourcing
 * <a href="https://www.youtube.com/watch?v=gvW9uJSFujA" target="_blank">Event Sourcing for .NET Developers: From Zero to Implementation</a> - Milan Jovanović
 * <a href="https://www.youtube.com/watch?v=n_o-xuuVtmw" target="_blank">Getting Started with Event Sourcing in .NET</a> - Nick Chapsas
 * <a href="https://www.youtube.com/watch?v=gaoZdtQSOTo" target="_blank">Let's build event store in one hour!</a> - Oskar Dudycz - NDC Oslo 2022
+* <a href="https://medium.com/grabek-io/7-lessons-learned-about-event-sourcing-in-last-two-years-e64c0fde4d20" target="_blank">Lessons Learned about Event Sourcing</a> - 7 lessons learned about Event Sourcing
+* <a href="https://www.continuousimprover.com/2017/11/the-ugly-of-event-sourcingreal-world.html" target="_blank">The Ugly of Event Sourcing</a> - Real world lessons of Event Sourcing
+* <a href="https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a" target="_blank">What They Don't Tell You About Event Sourcing</a> - What they don't tell you about Event Sourcing
 
 ## General
 * <a href="https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md" target="_blank">.NET Platform Standard</a> - The different between the old version and the new version of .NET.
@@ -121,6 +132,11 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Microsoft Architecture Docs
 * <a href="https://docs.microsoft.com/en-us/dotnet/architecture/" target="_blank">Architecture</a> - Microsoft Archtecture
+
+## Micro Services
+* <a href="https://microservices.io/patterns/data/database-per-service.html" target="_blank">Database per Service Pattern</a> - Discussion about the Database per Service pattern
+* <a href="http://memilavi.com/2018/10/21/micro-services-a-brave-new-world/" target="_blank">Micro Services - A Brave New World</a> - Blog post about Micro Services
+* <a href="https://martinfowler.com/articles/microservices.html" target="_blank">Microservices</a> - Martin Fowler's seminal paper on Micro Services
 
 ## Need to Read Again
 * <a href="https://michael-mckenna.com/multi-tenant-asp-dot-net-core-application-tenant-resolution" target="_blank">multi-tenant</a>

@@ -31,6 +31,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://www.giorgi.dev/" target="_blank">Giorgi Dalakishvili</a> - Giorgi Dalakishvili
 * <a href="https://jameseastham.co.uk/" target="_blank">James Eastham</a> - James Eastham (AWS Event Driven)
 * <a href="https://jasonwatmore.com/" target="_blank">Jason Watmore</a> - Jason Watmore
+* <a href="https://www.milanjovanovic.tech/" target="_blank">Milan Jovanović</a> - Milan Jovanović
 * <a href="https://lostechies.com/" target="_blank">Jimmy Bogard</a> - Jimmy Bogard
 * <a href="https://jimmybogard.com/" target="_blank">Jimmy Bogard -2</a> - Jimmy Bogard's new blog
 * <a href="https://blog.jonblankenship.com/" target="_blank">Jon Blankenship</a> - Jon Blankenship
@@ -56,6 +57,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/" target="_blank">Cloud Design Patterns</a> - Cloud Design Patterns
 * <a href="https://www.geeksforgeeks.org/command-pattern/" target="_blank">Command Pattern</a> - Intro to the Command Pattern
 * <a href="https://scottlilly.com/c-design-patterns-the-command-pattern/" target="_blank">Command Pattern C# Tutorial</a> - C# tutorial of the Command Pattern
+* <a href="https://www.milanjovanovic.tech/blog/the-false-comfort-of-the-happy-path-decoupling-your-services" target="_blank">Decoupling Your Services</a> - The False Comfort of the Happy Path
 * <a href="https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6" target="_blank">Façade Pattern</a> - Quick guide to the Façade Pattern
 * <a href="https://en.wikipedia.org/wiki/Factory_method_pattern" target="_blank">Factory Pattern</a> - Factory Method Pattern basics
 * <a href="https://www.binpress.com/factory-design-pattern/" target="_blank">Factory Pattern Examples</a> - Great examples of the Factory Pattern
@@ -63,6 +65,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://docs.microsoft.com/en-us/dotnet/architecture/serverless/orchestration-patterns" target="_blank">Orchestrator Pattern</a> - MSDN Orchestrator Pattern
 * <a href="https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/" target="_blank">Repository Pattern</a> - Getting Familiar with the Repository Pattern
 * <a href="https://blog.jonblankenship.com//2019/10/04/using-the-specification-pattern-to-build-a-data-driven-rules-engine/?ref=danylkowebdigest" target="_blank">Specification Pattern</a> - Jon explains Specification Pattern
+* <a href="https://www.milanjovanovic.tech/blog/vertical-slice-architecture-where-does-the-shared-logic-live" target="_blank">Vertical Slice Architecture</a> - Where Does the Shared Logic Live
 
 ## Docker
 * <a href="https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-2017&pivots=cs1-powershell#buildnonrootcontainer" target="_blank">Again not on our servers</a> - I don't know why
@@ -87,6 +90,7 @@ This is a list of Bookmarks.  Nothing more nothing less.
 * <a href="https://github.com/Nordes/IdentityServer4.LdapExtension" target="_blank">LDAP Identity Server Extension</a> - Use LDAP and Identity Server 4
 
 ## Entity Framework
+* <a href="https://www.milanjovanovic.tech/blog/dbcontext-is-not-thread-safe-parallelizing-ef-core-queries-the-right-way" target="_blank">DBContext is Not Thread-Safe</a> - Parallelizing EF Core Queries the Right Way
 * <a href="https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency" target="_blank">EF-Core Connection Resiliency</a> - Connection Resiliency
 * <a href="https://www.giorgi.dev/entity-framework/refactoring-entityframework-exceptions/" target="_blank">Entity Framework Exceptions</a> - EntityFramework.Exceptions 3.1.1
 * <a href="https://github.com/dotnet-architecture/eShopOnContainers/blob/0b4f44659dc7e8fc6e2a942b16caf02c87532b9a/src/Services/Ordering/Ordering.API/Application/Behaviors/TransactionBehaviour.cs" target="_blank">Example ☝️</a> - Example of using Resilient connections

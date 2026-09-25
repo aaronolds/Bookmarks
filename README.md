@@ -11,6 +11,8 @@ This is a list of Bookmarks.  Nothing more nothing less.
 
 ## Categories
 
+<!-- This list is manually kept in sync with the "## " section headings below.
+     When adding, removing, or renaming a category, update this list too. -->
 * [AI Newsletters](#ai-newsletters)
 * [Asp.Net Identity](#aspnet-identity)
 * [Asp.Net Identity JWT](#aspnet-identity-jwt)

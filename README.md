@@ -1,6 +1,43 @@
+---
+layout: default
+title: Bookmarks
+---
+
 # 🚀 Bookmarks
 
 This is a list of Bookmarks.  Nothing more nothing less.
+
+📖 [View the live bookmarks site](https://aaronolds.github.io/Bookmarks/)
+
+## Categories
+
+* [AI Newsletters](#ai-newsletters)
+* [Asp.Net Identity](#aspnet-identity)
+* [Asp.Net Identity JWT](#aspnet-identity-jwt)
+* [AWS Resources](#aws-resources)
+* [Blogs](#blogs)
+* [CAB](#cab)
+* [Dapper](#dapper)
+* [Design Patterns](#design-patterns)
+* [Docker](#docker)
+* [Domain Driven Design (DDD)](#domain-driven-design-ddd)
+* [Duende Identity Server](#duende-identity-server)
+* [Entity Framework](#entity-framework)
+* [Event Sourcing](#event-sourcing)
+* [General](#general)
+* [Git](#git)
+* [Git Repos](#git-repos)
+* [Microsoft Architecture Docs](#microsoft-architecture-docs)
+* [Micro Services](#micro-services)
+* [Need to Read Again](#need-to-read-again)
+* [Personal Weird Stuff](#personal-weird-stuff)
+* [PostMan](#postman)
+* [React](#react)
+* [React with Electron](#react-with-electron)
+* [Tech News](#tech-news)
+* [Tools](#tools)
+* [WPF](#wpf)
+* [Youtube](#youtube)
 
 ## AI Newsletters
 * <a href="https://www.superhuman.ai" target="_blank">Superhuman</a> - Daily newsletter on AI tools, trends, and productivity tips.

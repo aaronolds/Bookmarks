@@ -1,0 +1,15 @@
+title: Bookmarks
+description: A curated list of bookmarks covering AI, .NET, architecture, DevOps, and more.
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: false
+
+# Use README.md as the site's homepage (index).
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jekyll-readme-index
+
+include:
+  - README.md
